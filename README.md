@@ -91,20 +91,20 @@ There are a ton of resources out there to learn data analytics, machine learning
         <tr>
             <td>Thr</td>
             <td>Merging, Using Merges to solve problems</td>
-            <td>Solving Problems Systematically, Basic Plotting</td>
+            <td>Solving Problems Systematically</td>
         </tr>
-        <!-- WEEK 5 (TODO) -->
+        <!-- WEEK 5 -->
         <tr><th colspan="3" align="left">Week 5: First Data Analysis Project</th></tr>
-        <!-- <tr>
+        <tr>
             <td>Tue</td>
-            <td>Review of key functionality so far, markdown</td>
+            <td>Review so far, Basic Plotting, Basic Markdown</td>
             <td>Start work on analysis, survey dataset</td>
         </tr>
         <tr>
             <td>Thr</td>
             <td>Solidify first project code and analysis</td>
             <td>Present Analysis Findings</td>
-        </tr> -->
+        </tr>
         <!-- WEEK 6 (TODO) -->
         <tr><th colspan="3" align="left">Week 6: Beginning Modeling & Integrating SQL</th></tr>
         <!-- <tr>
