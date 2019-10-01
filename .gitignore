@@ -2,3 +2,4 @@ ve/*
 ref/*
 .ipy*
 .DS_Store
+data/ml-latest-small/*
