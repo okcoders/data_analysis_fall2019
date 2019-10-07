@@ -105,23 +105,23 @@ There are a ton of resources out there to learn data analytics, machine learning
             <td>Solidify first project code and analysis</td>
             <td>Present Analysis Findings</td>
         </tr>
-        <!-- WEEK 6 (TODO) -->
-        <tr><th colspan="3" align="left">Week 6: Beginning Modeling & Integrating SQL</th></tr>
-        <!-- <tr>
+        <!-- WEEK 6 -->
+        <tr><th colspan="3" align="left">Week 6: Beginning Modeling</th></tr>
+        <tr>
             <td>Tue</td>
-            <td></td>
-            <td></td>
+            <td>Intro to Modeling/Machine Learning, sci-kit learn</td>
+            <td>How to Use/Interpret a statistical model</td>
         </tr>
         <tr>
             <td>Thr</td>
-            <td></td>
-            <td></td>
-        </tr> -->
+            <td>Answering Questions with Statistical Models</td>
+            <td>...more of that</td>
+        </tr>
         <!-- WEEK 7 (TODO) -->
-        <tr><th colspan="3" align="left">Week 7: Statistical Modeling</th></tr>
+        <tr><th colspan="3" align="left">Week 7: Answering Questions with Models</th></tr>
         <!-- <tr>
             <td>Tue</td>
-            <td></td>
+            <td>Balancing SQL & Python/Pandas</td>
             <td></td>
         </tr>
         <tr>
